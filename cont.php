@@ -54,7 +54,11 @@ if($_SESSION['username']=="")
         
       
     </div>
-    <form name="myform" method="post" action="contact.php">
+
+    <div style="width:100%">
+        <div style="width:50%;">
+        <div style="color:#F67400">WRITE TO US</div> 
+        <form name="myform" method="post" action="contact.php">
       <table width="200" border="0" align="center">
         <tr>
           <td>Name</td>
@@ -87,6 +91,21 @@ if($_SESSION['username']=="")
         </tr>
       </table>
     </form>
+        </div>
+
+        <div style="width:25%; background:#ffffff; position:absolute; top:517px; left: 800px; padding:6px">
+            <h4>CONTACT US</h4>
+            <p class="contact-info"> <img src="./images/pin.svg" alt=""> Address: Uganda Registration Services Bureau, Plot 5 George Street, Georgian House,</p>
+            <p class="contact-info">P.O. Box 6848 Kampala Uganda</p>
+            <p class="contact-info"><img src="./images/phone.svg" alt="">  Phone: +256 414 233 219</p>
+            <p class="contact-info"><img src="./images/phone.svg" alt=""> Call center +256 417 338 100</p>
+            <p class="contact-info"><img src="./images/whatsapp.svg" alt=""> Whatsapp: +256 712 448 448</p>
+            <p class="contact-info"><img src="./images/phone.svg" alt="">Toll free: 0800 100 006</p>
+            <p class="contact-info"><img src="./images/phone.svg" alt=""> Fax: +256 414 250 712</p>
+            <p class="contact-info"><img src="./images/email.svg" alt=""> Email: ursb@ursb.go.ug</p>
+        </div>
+    </div>
+    
     <p>&nbsp;</p>
     <?php include('footer.php');?>
   </div>

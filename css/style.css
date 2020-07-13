@@ -579,3 +579,11 @@ ul#images li {
   width: 155px;
   height: 300px;
 }
+
+p.contact-info{
+  padding: 0 0 9.5px 0;
+}
+
+.contact-info img{
+  width:12px;
+}

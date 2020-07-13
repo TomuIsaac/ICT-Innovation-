@@ -9,6 +9,21 @@
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <!-- modernizr enables HTML5 elements and feature detects -->
   <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+
+  <style type="text/css">
+<!--
+.style2 {
+	color: #FF0000;
+	font-size: 2em;
+	font-weight: bold;
+}
+.style3 {
+	color: #FF0000;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+-->
+  </style>
 </head>
 
 <body>
@@ -47,6 +62,36 @@
       </div>
       
         
+        <table width="943" border="0">
+      <tr>
+        <td width="937"><p class="style2">Business Registration</p>
+          <p>The Bureau is mandated under the Uganda Registration Services Bureau Act Cap 210 to register all business entities in Uganda which are required by law to be registered.</p>
+          <p>The directorate of Business Registration is responsible for the registration of :</p>
+          <ul>
+          <ul>
+            <li>Public/Private companies</li>
+            <li>Foreign companies</li>
+            <li>Legal documents (e.g Constitutions, agreements, deeds, powers of attorney, etc)</li>
+            <li>Security documents (e.g mortgages, chattels, debentures, etc) </li>
+          </ul>  
+          <a href="./apply.php">Benefits of Registering a Company</a>      
+          </td>
+      </tr>
+
+      <tr>
+      <td width="937"><p class="style2">CIVIL REGISTRATION</p>
+          <p>This includes the different types of marriages:</p>
+          <ul>
+          <ul>
+            <li>Civil marriages – These are monogamous in nature and celebrated in the office of the Registrar General for residents of Kampala and in the offices of Chief Administrative Officers for the other 120 districts.</li>
+            <li>Moslem marriages – These are celebrated in accordance with the rites and observances of the Islamic faith.</li>
+            <li>Church marriages – They are monogamous in nature and celebrated in licensed churches in accordance with the rites of the Christian faith.</li>
+            <li>Customary marriages – They are potentially polygamous and are celebrated in accordance with the customs of an African community. </li>
+          </ul>  
+          <a href="./apply.php">Benefits of Registering a Company</a>      
+          </td>
+      </tr>
+    </table>
       
     </div>
     <p>\</p>
